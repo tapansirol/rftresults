@@ -1,0 +1,1 @@
+﻿window.OFFMODS['r-1265629714']=function(){return {"__type":"QueryLast","live":false,"counters":[1,3,null,1,null,null,null,2,100.0,3,null,null,null]};};

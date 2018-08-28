@@ -1,0 +1,1 @@
+﻿window.OFFMODS['r-333518874']=function(){return {"__type":"QueryLast","live":false,"groups":[{"name":"TRANSACTION","instances":[]}]};};

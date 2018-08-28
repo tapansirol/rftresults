@@ -1,0 +1,1 @@
+﻿window.OFFMODS['Prefs']=function(){return {"__type":"Preferences","productId":"com.ibm.rational.rft.product.ide","productName":"HCL Functional Tester","fixedColumn":false,"pagingEnabled":false,"showSubPages":false,"showPagesPanel":true,"percentiles":["85","90","95"]};};

@@ -1,0 +1,1 @@
+﻿window.OFFMODS['r-1619627786']=function(){return {"__type":"QueryLast","live":false,"counters":["Sample",20000,"COMPLETE"]};};

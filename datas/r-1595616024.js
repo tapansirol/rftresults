@@ -1,0 +1,1 @@
+﻿window.OFFMODS['r-1595616024']=function(){return {"__type":"QueryLast","live":false,"groups":[{"name":"DynamicCounterAllSteps","instances":[{"name":"Click on Hyperlink whose Content is Enter the Store - 127.0.0.1:8080","counters":[0.0,13.0]},{"name":"Start 127.0.0.1:8080","counters":[1266.0,149.0]}]}]};};
